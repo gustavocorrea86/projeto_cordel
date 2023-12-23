@@ -47,7 +47,8 @@ main p{
    
 }
 .normal{
-    height:55vw;
+    height: 55vw;
+    width: 55vh;
     height: auto;
     background-color: white;
 }
@@ -62,7 +63,7 @@ main p{
     background-position: right center;
     background-attachment: fixed;
     background-size: cover;
-    color: white;
+    
 }
 #img2{
     height: 55vw;
