@@ -57,11 +57,9 @@ main p{
 #img1{
     height: 55vw;
     height: auto;
-    background-image: url(imagens/background001.jpg);
-    background-repeat: no-repeat;
-    background-position: right center;
-    background-attachment: fixed;
+    background: url(imagens/background001.jpg) right center no-repeat fixed;
     background-size: cover;
+    
     
 }
 #img2{
@@ -81,7 +79,6 @@ main p{
     height: auto;
     background:  url(imagens/natureza3.jpg) right center no-repeat fixed ;
     background-size: cover;
-    margin-bottom: 30px;
 }
 footer{
     background-color: black;
