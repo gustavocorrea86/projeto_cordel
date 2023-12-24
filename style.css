@@ -40,10 +40,9 @@ header > p{
 main p{
     font-family: 'cavet', Courier, monospace;
     color: black;
-    font-weight: bolder;
-    font-size: 3vw;
+    font-size: 4vw;
     padding: 35px;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.438);
    
 }
 .normal{
@@ -59,8 +58,6 @@ main p{
     height: auto;
     background: url(imagens/background001.jpg) right center no-repeat fixed;
     background-size: cover;
-    
-    
 }
 #img2{
     height: 55vw;
